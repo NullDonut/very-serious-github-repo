@@ -8,6 +8,10 @@
 position = Vector2(610, 327)
 texture = ExtResource("1_6r1bv")
 
+[node name="Test3" type="Sprite2D" parent="." unique_id=940174433]
+position = Vector2(1105, 225)
+texture = ExtResource("1_6r1bv")
+
 [node name="Test2" type="Sprite2D" parent="." unique_id=865100256]
 position = Vector2(142, 196)
 texture = ExtResource("1_6r1bv")
